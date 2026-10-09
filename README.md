@@ -1,7 +1,18 @@
 # 🏛️ CivicLens
 > *"Snap it. Say it in your language. We file it correctly."*
 
-A production-quality prototype built for **Google for Developers PromptWars 2026 (Open Innovation Track)**.
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-trycloudflare.com-success?style=for-the-badge&logo=cloudflare)](https://absolutely-definition-railway-dicke.trycloudflare.com)
+[![Google PromptWars 2026](https://img.shields.io/badge/Google%20PromptWars-2026-blue?style=for-the-badge&logo=google)](https://github.com/rohanjeevan200712-wq/CivicLens)
+[![Gemini Multimodal](https://img.shields.io/badge/Google%20Gemini-Multimodal%20AI-orange?style=for-the-badge&logo=googlegemini)](https://aistudio.google.com/)
+
+---
+
+### 🌐 Live Deployed Application
+👉 **[https://absolutely-definition-railway-dicke.trycloudflare.com](https://absolutely-definition-railway-dicke.trycloudflare.com)**
+
+*The live prototype is accessible globally on any smartphone, tablet, or browser with end-to-end multimodal intake, privacy blur, location confirmation, and municipal admin triage.*
+
+---
 
 CivicLens eliminates language and literacy barriers for everyday citizens reporting civic issues (potholes, overflowing garbage, broken streetlights, water pipeline bursts, missing manhole covers, stray animal hazards). Powered by **Google Gemini Multimodal AI**, it converts unstructured photos, voice notes in 7+ Indian regional languages, and casual text into schema-validated, official municipal grievances auto-routed to the right city department with verified SLAs.
 
