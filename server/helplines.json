@@ -1,0 +1,44 @@
+{
+  "emergency_helplines": [
+    {
+      "trigger": "electrical_hazard",
+      "hazard_type": "Live Wire / Transformer Sparking / Shock Risk",
+      "department": "Electricity Emergency Control Room",
+      "number": "1912",
+      "toll_free": "1800-425-6633",
+      "action_instruction": "STAY AT LEAST 10 METERS AWAY. Do NOT touch wet surfaces or puddles nearby."
+    },
+    {
+      "trigger": "manhole_hazard",
+      "hazard_type": "Open Manhole / Deep Sewer Trench",
+      "department": "Sewerage Board Emergency Quick Response",
+      "number": "1916",
+      "toll_free": "1800-425-1916",
+      "action_instruction": "Place a visible stick or barricade if safe to do so. Warn pedestrians and 2-wheeler riders."
+    },
+    {
+      "trigger": "gas_chemical_hazard",
+      "hazard_type": "Gas Leak / Chemical Fumes / Fire Hazard",
+      "department": "Fire & Emergency Services",
+      "number": "101",
+      "toll_free": "112",
+      "action_instruction": "Evacuate the immediate area upwind. Do NOT light any flame or switch on engines."
+    },
+    {
+      "trigger": "flooding_hazard",
+      "hazard_type": "Severe Flash Flooding / Collapsed Wall",
+      "department": "Disaster Management & Rescue",
+      "number": "1077",
+      "toll_free": "112",
+      "action_instruction": "Avoid walking or driving through moving flood water. Disconnect ground-level appliances."
+    },
+    {
+      "trigger": "rabid_animal_hazard",
+      "hazard_type": "Aggressive / Suspected Rabid Animal Attack",
+      "department": "Animal Control & Emergency Vet Unit",
+      "number": "080-22660000",
+      "toll_free": "112",
+      "action_instruction": "Do not run or make sudden eye contact. Keep children and seniors indoors."
+    }
+  ]
+}

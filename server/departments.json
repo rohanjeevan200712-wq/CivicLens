@@ -1,0 +1,101 @@
+{
+  "departments": [
+    {
+      "id": "dept-roads",
+      "name": "Roads & Infrastructure Division",
+      "code": "PWD-ROAD",
+      "verified": true,
+      "helpline": "1800-425-5555",
+      "escalationDays": 7,
+      "categories": ["Pothole", "Damaged Road", "Broken Footpath", "Fallen Tree / Road Obstruction"],
+      "jurisdiction": "Municipal Corporation Public Works Department",
+      "contactStatus": "verified"
+    },
+    {
+      "id": "dept-sanitation",
+      "name": "Solid Waste Management & Sanitation",
+      "code": "SWM-CIVIC",
+      "verified": true,
+      "helpline": "1969",
+      "escalationDays": 3,
+      "categories": ["Garbage Overflow", "Illegal Dumping", "Dead Animal Removal", "Unclean Public Toilet"],
+      "jurisdiction": "Swachh Bharat Municipal Sanitation Cell",
+      "contactStatus": "verified"
+    },
+    {
+      "id": "dept-water",
+      "name": "Water Supply & Sewerage Board",
+      "code": "WSSB-JAL",
+      "verified": true,
+      "helpline": "1916",
+      "escalationDays": 5,
+      "categories": ["Water Pipe Leak", "Contaminated Water", "Sewage Overflow", "Missing Manhole Cover"],
+      "jurisdiction": "City Water Supply & Sewerage Board",
+      "contactStatus": "verified"
+    },
+    {
+      "id": "dept-electrical",
+      "name": "Electricity Supply & Street Lighting",
+      "code": "ESCOM-ELEC",
+      "verified": true,
+      "helpline": "1912",
+      "escalationDays": 2,
+      "categories": ["Broken Streetlight", "Hanging Live Wire", "Transformer Sparking", "Damaged Electric Pole"],
+      "jurisdiction": "State Electricity Distribution Corporation",
+      "contactStatus": "verified"
+    },
+    {
+      "id": "dept-animal-control",
+      "name": "Animal Husbandry & Public Health",
+      "code": "AH-HEALTH",
+      "verified": true,
+      "helpline": "080-22660000",
+      "escalationDays": 5,
+      "categories": ["Stray Dog Hazard / Aggression", "Cattle on Main Road", "Rabies Suspect", "Mosquito Fogging"],
+      "jurisdiction": "Municipal Public Health & Veterinary Services",
+      "contactStatus": "verified"
+    },
+    {
+      "id": "dept-drains",
+      "name": "Stormwater Drains & Flood Prevention",
+      "code": "SWD-DRAIN",
+      "verified": true,
+      "helpline": "1077",
+      "escalationDays": 4,
+      "categories": ["Clogged Drain", "Flooding / Waterlogging", "Encroached Rajakaluve / Nullah"],
+      "jurisdiction": "Disaster Response & Stormwater Drains Division",
+      "contactStatus": "verified"
+    },
+    {
+      "id": "dept-unverified",
+      "name": "General Grievance Cell",
+      "code": "GEN-TRIAGE",
+      "verified": false,
+      "helpline": "080-22975555",
+      "escalationDays": 10,
+      "categories": ["Other / Uncategorized"],
+      "jurisdiction": "Central Citizen Facilitation Center",
+      "contactStatus": "needs verification"
+    }
+  ],
+  "allowed_categories": [
+    "Pothole",
+    "Damaged Road",
+    "Broken Footpath",
+    "Garbage Overflow",
+    "Illegal Dumping",
+    "Water Pipe Leak",
+    "Contaminated Water",
+    "Sewage Overflow",
+    "Missing Manhole Cover",
+    "Broken Streetlight",
+    "Hanging Live Wire",
+    "Transformer Sparking",
+    "Stray Dog Hazard / Aggression",
+    "Cattle on Main Road",
+    "Clogged Drain",
+    "Flooding / Waterlogging",
+    "Fallen Tree / Road Obstruction",
+    "Other / Uncategorized"
+  ]
+}

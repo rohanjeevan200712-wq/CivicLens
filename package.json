@@ -1,0 +1,22 @@
+{
+  "name": "civiclens",
+  "version": "1.0.0",
+  "description": "CivicLens - Snap it. Say it in your language. We file it correctly. Google for Developers PromptWars 2026.",
+  "scripts": {
+    "start": "node server/index.js",
+    "seed": "node server/seed.js",
+    "dev:server": "cd server && node index.js",
+    "dev:client": "cd client && npm run dev",
+    "build": "cd client && npm run build"
+  },
+  "keywords": [
+    "gemini",
+    "civic-tech",
+    "multimodal",
+    "pwa",
+    "hackathon",
+    "google-for-developers"
+  ],
+  "author": "Google Senior Full-Stack Engineer & Product Designer",
+  "license": "MIT"
+}

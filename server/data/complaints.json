@@ -1,0 +1,726 @@
+[
+  {
+    "id": "seed-01",
+    "ticketNumber": "BLR-2026-401821",
+    "createdAt": "2026-10-07T19:27:51.246Z",
+    "updatedAt": "2026-10-08T01:27:51.249Z",
+    "escalationDueAt": "2026-10-14T07:27:51.249Z",
+    "status": "In Progress",
+    "issue_category": "Pothole",
+    "severity": 4,
+    "severity_justification": "Deep 1.5-foot crater on main carriage-way posing immediate skid risk for two-wheelers.",
+    "safety_risk": true,
+    "safety_risk_reason": "High risk of rider falls and vehicular collision in fast moving traffic.",
+    "helpline_trigger": "manhole_hazard",
+    "responsible_department": "Roads & Infrastructure Division",
+    "department_code": "PWD-ROAD",
+    "department_helpline": "1800-425-5555",
+    "department_verified": true,
+    "escalation_days": 7,
+    "detected_language": "Kannada",
+    "input_transcript": "ಕೋರಮಂಗಲ ೮೦ ಫೀಟ್ ರಸ್ತೆಯಲ್ಲಿ ತುಂಬಾ ದೊಡ್ಡ ಗುಂಡಿ ಬಿದ್ದಿದೆ. ನೆನ್ನೆ ರಾತ್ರಿ ಬೈಕ್ ಸವಾರ ಬಿದ್ದು ಗಾಯಗೊಂಡಿದ್ದಾರೆ. ಬೇಗ ಮುಚ್ಚಿ.",
+    "formal_complaint_draft": "Dangerous crater-sized pothole measuring 1.5 ft in depth located on Koramangala 80 Feet Road near Sony World Signal. Causing recurring vehicular skids and bodily injury to two-wheeler riders. Immediate asphalt patching requested.",
+    "translated_copy": "ಕೋರಮಂಗಲ ೮೦ ಫೀಟ್ ರಸ್ತೆಯ ಸೋನಿ ವರ್ಲ್ಡ್ ಸಿಗ್ನಲ್ ಬಳಿ ಅಪಾಯಕಾರಿ ಆಳವಾದ ರಸ್ತೆ ಗುಂಡಿ ಬಿದ್ದಿದ್ದು, ವಾಹನ ಸವಾರರು ಬಿದ್ದು ಗಾಯಗೊಳ್ಳುತ್ತಿದ್ದಾರೆ. ತಕ್ಷಣ ಡಾಂಬರು ಹಾಕಿ ಮುಚ್ಚಲು ವಿನಂತಿ.",
+    "location": {
+      "lat": 12.9352,
+      "lng": 77.6245,
+      "address": "80 Feet Rd, 4th Block, Koramangala, Bengaluru, Karnataka 560034"
+    },
+    "imageUrl": "https://images.unsplash.com/photo-1515162816999-a0c47dc192f7?w=600&auto=format&fit=crop&q=80",
+    "upvotes": 14,
+    "duplicateCount": 11,
+    "routingDurationSeconds": "3.2",
+    "isDuplicate": false,
+    "timeline": [
+      {
+        "status": "Submitted",
+        "title": "Complaint Registered",
+        "description": "Filed via CivicLens Voice Input (Kannada).",
+        "timestamp": "2026-10-07T19:27:51.249Z"
+      },
+      {
+        "status": "AI Triage Completed",
+        "title": "Automated Routing via Gemini",
+        "description": "Classified as Pothole (Severity 4/5). Routed to Roads & Infrastructure Division.",
+        "timestamp": "2026-10-07T19:33:51.249Z"
+      },
+      {
+        "status": "Acknowledged",
+        "title": "Ward Engineer Assigned",
+        "description": "Assigned to PWD Ward 151 Junior Engineer Ramesh K.",
+        "timestamp": "2026-10-07T23:27:51.249Z"
+      },
+      {
+        "status": "In Progress",
+        "title": "Asphalt Work Order Dispatched",
+        "description": "Hot-mix asphalt patch truck scheduled for night shift deployment.",
+        "timestamp": "2026-10-08T01:27:51.249Z"
+      }
+    ]
+  },
+  {
+    "id": "seed-02",
+    "ticketNumber": "BLR-2026-401822",
+    "createdAt": "2026-10-09T03:27:51.249Z",
+    "updatedAt": "2026-10-09T03:27:51.249Z",
+    "escalationDueAt": "2026-10-15T07:27:51.249Z",
+    "status": "Submitted",
+    "issue_category": "Pothole",
+    "severity": 4,
+    "severity_justification": "Massive road depression causing traffic slowdown and safety risk.",
+    "safety_risk": true,
+    "safety_risk_reason": "Accident risk on high traffic arterial road.",
+    "helpline_trigger": "manhole_hazard",
+    "responsible_department": "Roads & Infrastructure Division",
+    "department_code": "PWD-ROAD",
+    "department_helpline": "1800-425-5555",
+    "department_verified": true,
+    "escalation_days": 7,
+    "detected_language": "Hindi (Hinglish)",
+    "input_transcript": "Bhai Koramangala 80ft road pe bohot dangerous gaddha hai, Sony signal ke paas. Gaadi skid ho rahi hai.",
+    "formal_complaint_draft": "Duplicate report of severe road crater at Koramangala 80ft road near Sony Signal. Merged with BLR-2026-401821 for prioritization.",
+    "translated_copy": "कोरमंगला 80 फीट रोड पर सोनी सिग्नल के पास बेहद खतरनाक गड्ढा है, तुरंत मरम्मत की आवश्यकता है।",
+    "location": {
+      "lat": 12.9354,
+      "lng": 77.6247,
+      "address": "Near Sony World Signal, Koramangala 4th Block, Bengaluru"
+    },
+    "imageUrl": "https://images.unsplash.com/photo-1515162816999-a0c47dc192f7?w=600&auto=format&fit=crop&q=80",
+    "upvotes": 3,
+    "duplicateCount": 0,
+    "routingDurationSeconds": "2.8",
+    "isDuplicate": true,
+    "parentComplaintId": "seed-01",
+    "timeline": [
+      {
+        "status": "Submitted",
+        "title": "Complaint Registered",
+        "description": "Filed via Hinglish text input.",
+        "timestamp": "2026-10-09T03:27:51.249Z"
+      },
+      {
+        "status": "Merged Duplicate",
+        "title": "Clustered with Active Hotspot",
+        "description": "Matched within 35 meters of primary ticket BLR-2026-401821. Upvote registered.",
+        "timestamp": "2026-10-09T03:33:51.249Z"
+      }
+    ]
+  },
+  {
+    "id": "seed-03",
+    "ticketNumber": "BLR-2026-512093",
+    "createdAt": "2026-10-08T19:27:51.249Z",
+    "updatedAt": "2026-10-08T20:27:51.249Z",
+    "escalationDueAt": "2026-10-11T07:27:51.249Z",
+    "status": "Acknowledged",
+    "issue_category": "Missing Manhole Cover",
+    "severity": 5,
+    "severity_justification": "Open subterranean sewer chamber without safety barricade posing fatal falling risk.",
+    "safety_risk": true,
+    "safety_risk_reason": "Immediate risk of pedestrians or children stepping into 10-foot deep sewer line.",
+    "helpline_trigger": "manhole_hazard",
+    "responsible_department": "Water Supply & Sewerage Board",
+    "department_code": "WSSB-JAL",
+    "department_helpline": "1916",
+    "department_verified": true,
+    "escalation_days": 2,
+    "detected_language": "Hindi",
+    "input_transcript": "इंद्रा नगर 100 फीट रोड पर मेनहोल का ढक्कन टूटा हुआ है और खुला है। कोई भी बच्चा गिर सकता है, तुरंत ढक्कन लगाओ।",
+    "formal_complaint_draft": "Critical Emergency: Completely uncovered storm/sewer manhole chamber on Indiranagar 100 Feet Road pedestrian pavement. Absence of warning marker creates imminent risk of fatal plunge. Emergency steel-reinforced concrete slab replacement required.",
+    "translated_copy": "अति आवश्यक: इंदिरानगर 100 फीट रोड पर मैनहोल का ढक्कन टूटा और खुला हुआ है। जानलेवा दुर्घटना से बचाने हेतु तुरंत नया कंक्रीट स्लैब लगाया जाए।",
+    "location": {
+      "lat": 12.9784,
+      "lng": 77.6408,
+      "address": "100 Feet Rd, HAL 2nd Stage, Indiranagar, Bengaluru, Karnataka 560038"
+    },
+    "imageUrl": "https://images.unsplash.com/photo-1541888946425-d0fbb186c5f7?w=600&auto=format&fit=crop&q=80",
+    "upvotes": 9,
+    "duplicateCount": 4,
+    "routingDurationSeconds": "2.5",
+    "isDuplicate": false,
+    "timeline": [
+      {
+        "status": "Submitted",
+        "title": "Complaint Registered",
+        "description": "Voice input in Hindi.",
+        "timestamp": "2026-10-08T19:27:51.249Z"
+      },
+      {
+        "status": "AI Triage Completed",
+        "title": "CRITICAL SAFETY ALERT TRIGGERED",
+        "description": "High priority flag (Severity 5/5). BWSSB 1916 Helpline auto-notified.",
+        "timestamp": "2026-10-08T19:33:51.249Z"
+      },
+      {
+        "status": "Acknowledged",
+        "title": "Quick Response Team Dispatched",
+        "description": "Emergency barricading cones placed; replacement cast-iron cover en route.",
+        "timestamp": "2026-10-08T20:27:51.249Z"
+      }
+    ]
+  },
+  {
+    "id": "seed-04",
+    "ticketNumber": "BLR-2026-623104",
+    "createdAt": "2026-10-08T11:27:51.249Z",
+    "updatedAt": "2026-10-08T13:27:51.249Z",
+    "escalationDueAt": "2026-10-10T07:27:51.249Z",
+    "status": "In Progress",
+    "issue_category": "Hanging Live Wire",
+    "severity": 5,
+    "severity_justification": "Live overhead cable dangling 4 feet above pedestrian sidewalk during monsoon.",
+    "safety_risk": true,
+    "safety_risk_reason": "High tension electrocution danger to school students and passersby.",
+    "helpline_trigger": "electrical_hazard",
+    "responsible_department": "Electricity Supply & Street Lighting",
+    "department_code": "ESCOM-ELEC",
+    "department_helpline": "1912",
+    "department_verified": true,
+    "escalation_days": 2,
+    "detected_language": "Tamil",
+    "input_transcript": "எச்.எஸ்.ஆர் லேஅவுட் மெயின் ரோட்டில் கரண்ட் கம்பி அறுந்து தொங்குகிறது. தீப்பொறி பறக்கிறது. ஆபத்து, உடனே சரி செய்யுங்கள்.",
+    "formal_complaint_draft": "Life-Threatening Emergency: Snapped live electrical power wire dangling at head height over pedestrian sidewalk near HSR Layout Sector 1. Occasional sparking observed on pole transformer. Immediate power cut and line rewiring requested.",
+    "translated_copy": "அதி அவசரம்: எச்.எஸ்.ஆர் லேஅவுட் செக்டார் 1ல் மின்கம்பி அறுந்து ஆபத்தான நிலையில் தொங்குகிறது. தீப்பொறி வருவதால் மின்சாரம் துண்டிக்கப்பட்டு உடனே சரிசெய்யப்பட வேண்டும்.",
+    "location": {
+      "lat": 12.9116,
+      "lng": 77.6389,
+      "address": "14th Main Rd, Sector 1, HSR Layout, Bengaluru, Karnataka 560102"
+    },
+    "imageUrl": "https://images.unsplash.com/photo-1544717305-2782549b5136?w=600&auto=format&fit=crop&q=80",
+    "upvotes": 21,
+    "duplicateCount": 8,
+    "routingDurationSeconds": "2.1",
+    "isDuplicate": false,
+    "timeline": [
+      {
+        "status": "Submitted",
+        "title": "Complaint Registered",
+        "description": "Direct photo + Tamil audio complaint.",
+        "timestamp": "2026-10-08T11:27:51.249Z"
+      },
+      {
+        "status": "AI Triage Completed",
+        "title": "Critical Electrical Hazard Triggered",
+        "description": "BESCOM 1912 hotline pinged. Priority score elevated to maximum.",
+        "timestamp": "2026-10-08T11:33:51.249Z"
+      },
+      {
+        "status": "In Progress",
+        "title": "Substation Lineman On-Site",
+        "description": "Feeder breaker tripped. Linemen replacing damaged overhead insulator.",
+        "timestamp": "2026-10-08T13:27:51.249Z"
+      }
+    ]
+  },
+  {
+    "id": "seed-05",
+    "ticketNumber": "BLR-2026-734215",
+    "createdAt": "2026-10-07T07:27:51.249Z",
+    "updatedAt": "2026-10-08T07:27:51.249Z",
+    "escalationDueAt": "2026-10-10T07:27:51.249Z",
+    "status": "Acknowledged",
+    "issue_category": "Garbage Overflow",
+    "severity": 3,
+    "severity_justification": "Overfilled municipal black spot dumping obstructing half the road width.",
+    "safety_risk": false,
+    "safety_risk_reason": "None",
+    "helpline_trigger": "none",
+    "responsible_department": "Solid Waste Management & Sanitation",
+    "department_code": "SWM-CIVIC",
+    "department_helpline": "1969",
+    "department_verified": true,
+    "escalation_days": 3,
+    "detected_language": "Telugu",
+    "input_transcript": "వైట్‌ఫీల్డ్ మెయిన్ రోడ్డు వద్ద చెత్త కుప్పలు పేరుకుపోయాయి. భరించలేని దుర్వాసన వస్తోంది. మున్సిపల్ వాహనం పంపండి.",
+    "formal_complaint_draft": "Public Sanitation Concern: Substantial accumulation of unsegregated organic and plastic municipal solid waste at Whitefield Main Road corner. Stench polluting residential zone and obstructing stormwater gutter. Mechanical tipper truck clearance requested.",
+    "translated_copy": "వైట్‌ఫీల్డ్ మెయిన్ రోడ్ వద్ద చెత్త విపరీతంగా పేరుకుపోయి దుర్వాసన వస్తోంది. వెంటనే పారిశుద్ధ్య వాహనం పంపి శుభ్రం చేయించాలని కోరుతున్నాము.",
+    "location": {
+      "lat": 12.9698,
+      "lng": 77.7499,
+      "address": "Whitefield Main Rd, Near ITPL, Bengaluru, Karnataka 560066"
+    },
+    "imageUrl": "https://images.unsplash.com/photo-1530587191325-3db32d826c18?w=600&auto=format&fit=crop&q=80",
+    "upvotes": 8,
+    "duplicateCount": 3,
+    "routingDurationSeconds": "3.4",
+    "isDuplicate": false,
+    "timeline": [
+      {
+        "status": "Submitted",
+        "title": "Complaint Registered",
+        "description": "Uploaded with Telugu description.",
+        "timestamp": "2026-10-07T07:27:51.249Z"
+      },
+      {
+        "status": "Acknowledged",
+        "title": "Routed to Solid Waste Cell",
+        "description": "Assigned to SWM Supervisor for Ward 84.",
+        "timestamp": "2026-10-08T07:27:51.249Z"
+      }
+    ]
+  },
+  {
+    "id": "seed-06",
+    "ticketNumber": "BLR-2026-845326",
+    "createdAt": "2026-10-07T05:27:51.250Z",
+    "updatedAt": "2026-10-09T05:27:51.250Z",
+    "escalationDueAt": "2026-10-12T07:27:51.250Z",
+    "status": "Resolved",
+    "issue_category": "Water Pipe Leak",
+    "severity": 3,
+    "severity_justification": "Potable drinking water wastage and tarmac erosion.",
+    "safety_risk": false,
+    "safety_risk_reason": "None",
+    "helpline_trigger": "none",
+    "responsible_department": "Water Supply & Sewerage Board",
+    "department_code": "WSSB-JAL",
+    "department_helpline": "1916",
+    "department_verified": true,
+    "escalation_days": 5,
+    "detected_language": "Marathi",
+    "input_transcript": "मल्लेश्वरम ೮व्या क्रॉसवर मुख्य पाण्याची पाईपलाईन फुटली आहे. पिण्याचे पाणी रस्त्यावर वाया जात आहे. कृपया दुरुस्त करा.",
+    "formal_complaint_draft": "Drinking Water Conservation: Major underground transmission water line fissure on Malleshwaram 8th Cross. Potable water flooding pavement and undermining road sub-base. Sluice valve shut-off and clamp repair executed.",
+    "translated_copy": "मल्लेश्वरम ८व्या क्रॉसवर पिण्याच्या पाण्याची पाईपलाईन फुटून रस्त्यावर पाणी वाहत आहे. त्वरित दुरुस्ती करून पाणी वाया जाणे थांबवा.",
+    "location": {
+      "lat": 13.0031,
+      "lng": 77.5684,
+      "address": "8th Cross Rd, Malleshwaram, Bengaluru, Karnataka 560003"
+    },
+    "imageUrl": "https://images.unsplash.com/photo-1584467735871-8e85353a8413?w=600&auto=format&fit=crop&q=80",
+    "upvotes": 12,
+    "duplicateCount": 2,
+    "routingDurationSeconds": "3.6",
+    "isDuplicate": false,
+    "timeline": [
+      {
+        "status": "Submitted",
+        "title": "Complaint Registered",
+        "description": "Marathi transcript submitted.",
+        "timestamp": "2026-10-07T05:27:51.250Z"
+      },
+      {
+        "status": "In Progress",
+        "title": "BWSSB Pipeline Excavation",
+        "description": "Crew dispatched to isolate pipe section.",
+        "timestamp": "2026-10-08T11:27:51.250Z"
+      },
+      {
+        "status": "Resolved",
+        "title": "Pipeline Repaired & Sealed",
+        "description": "High-pressure coupling installed and surface backfilled with dry aggregate.",
+        "timestamp": "2026-10-09T05:27:51.250Z"
+      }
+    ]
+  },
+  {
+    "id": "seed-07",
+    "ticketNumber": "BLR-2026-956437",
+    "createdAt": "2026-10-08T15:27:51.250Z",
+    "updatedAt": "2026-10-08T17:27:51.250Z",
+    "escalationDueAt": "2026-10-12T07:27:51.250Z",
+    "status": "Acknowledged",
+    "issue_category": "Stray Dog Hazard / Aggression",
+    "severity": 4,
+    "severity_justification": "Aggressive dog pack territorial barking and chasing morning cyclists and children.",
+    "safety_risk": true,
+    "safety_risk_reason": "Direct danger of animal bite and rabies infection.",
+    "helpline_trigger": "rabid_animal_hazard",
+    "responsible_department": "Animal Husbandry & Public Health",
+    "department_code": "AH-HEALTH",
+    "department_helpline": "080-22660000",
+    "department_verified": true,
+    "escalation_days": 5,
+    "detected_language": "Bengali",
+    "input_transcript": "জয়ানগর ৪থ ব্লকে অনেকগুলো পাগলা কুকুর একসাথে পথচারীদের তাড়া করছে। বাচ্চাদের স্কুলে যেতে ভয় লাগছে। ব্যবস্থা নিন।",
+    "formal_complaint_draft": "Public Safety Risk: Aggressive pack of stray canines intimidating pedestrians and charging at school children near Jayanagar 4th Block park. Immediate dispatch of Animal Birth Control (ABC) unit and anti-rabies vaccination verification required.",
+    "translated_copy": "জয়নগর ৪র্থ ব্লকে কুকুরের দল পথচারী ও শিশুদের আক্রমণ করছে। অবিলম্বে পুরসভার প্রাণী নিয়ন্ত্রণ দলকে পাঠানোর অনুরোধ।",
+    "location": {
+      "lat": 12.9299,
+      "lng": 77.5834,
+      "address": "4th Block, Jayanagar, Bengaluru, Karnataka 560011"
+    },
+    "imageUrl": "https://images.unsplash.com/photo-1548199973-03cce0bbc87b?w=600&auto=format&fit=crop&q=80",
+    "upvotes": 11,
+    "duplicateCount": 5,
+    "routingDurationSeconds": "2.9",
+    "isDuplicate": false,
+    "timeline": [
+      {
+        "status": "Submitted",
+        "title": "Complaint Registered",
+        "description": "Bengali voice input converted.",
+        "timestamp": "2026-10-08T15:27:51.250Z"
+      },
+      {
+        "status": "Acknowledged",
+        "title": "Veterinary Cell Alerted",
+        "description": "Animal Welfare squad scheduled for humane capture and neutering.",
+        "timestamp": "2026-10-08T17:27:51.250Z"
+      }
+    ]
+  },
+  {
+    "id": "seed-08",
+    "ticketNumber": "BLR-2026-167548",
+    "createdAt": "2026-10-08T23:27:51.250Z",
+    "updatedAt": "2026-10-09T00:27:51.250Z",
+    "escalationDueAt": "2026-10-11T07:27:51.250Z",
+    "status": "Submitted",
+    "issue_category": "Broken Streetlight",
+    "severity": 3,
+    "severity_justification": "Dark street corridor creating security concerns for women commuters.",
+    "safety_risk": false,
+    "safety_risk_reason": "None",
+    "helpline_trigger": "none",
+    "responsible_department": "Electricity Supply & Street Lighting",
+    "department_code": "ESCOM-ELEC",
+    "department_helpline": "1912",
+    "department_verified": true,
+    "escalation_days": 2,
+    "detected_language": "English",
+    "input_transcript": "Streetlights not working on 12th Main Road Indiranagar for the past three consecutive nights. Entire stretch is pitch dark.",
+    "formal_complaint_draft": "Public Lighting Failure: Entire series of 6 LED streetlights non-operational along 12th Main Road, Indiranagar. Poses security vulnerability and reduces driver visibility. Driver circuit or timer replacement requested.",
+    "translated_copy": "Public Lighting Failure: Entire series of 6 LED streetlights non-operational along 12th Main Road, Indiranagar. Immediate repair requested.",
+    "location": {
+      "lat": 12.9719,
+      "lng": 77.6411,
+      "address": "12th Main Rd, HAL 2nd Stage, Indiranagar, Bengaluru, Karnataka 560008"
+    },
+    "imageUrl": "https://images.unsplash.com/photo-1509114397022-ed747cca3f65?w=600&auto=format&fit=crop&q=80",
+    "upvotes": 4,
+    "duplicateCount": 1,
+    "routingDurationSeconds": "3.1",
+    "isDuplicate": false,
+    "timeline": [
+      {
+        "status": "Submitted",
+        "title": "Complaint Registered",
+        "description": "Filed via English web intake.",
+        "timestamp": "2026-10-08T23:27:51.250Z"
+      }
+    ]
+  },
+  {
+    "id": "seed-09",
+    "ticketNumber": "BLR-2026-278659",
+    "createdAt": "2026-10-08T03:27:51.250Z",
+    "updatedAt": "2026-10-08T06:27:51.250Z",
+    "escalationDueAt": "2026-10-12T07:27:51.250Z",
+    "status": "In Progress",
+    "issue_category": "Clogged Drain",
+    "severity": 4,
+    "severity_justification": "Stormwater drain choked with single-use plastic causing street flooding during showers.",
+    "safety_risk": true,
+    "safety_risk_reason": "Waterlogging spreading into ground-floor residences.",
+    "helpline_trigger": "flooding_hazard",
+    "responsible_department": "Stormwater Drains & Flood Prevention",
+    "department_code": "SWD-DRAIN",
+    "department_helpline": "1077",
+    "department_verified": true,
+    "escalation_days": 4,
+    "detected_language": "Kannada (Kanglish)",
+    "input_transcript": "BTM 2nd stage alli Rajakaluve drain poora block aagide. Maleyalli neeru mane olagade barthide.",
+    "formal_complaint_draft": "Severe Drainage Obstruction: Secondary stormwater drain (rajakaluve) clogged with urban silt and construction debris near BTM 2nd Stage. Stagnant backflow entering residential compounds. Suction desilting deployment urgently requested.",
+    "translated_copy": "ಬಿಟಿಎಂ ೨ನೇ ಹಂತದಲ್ಲಿ ಮಳೆನೀರುಗಾಲುವೆ ಸಂಪೂರ್ಣ ಕಸದಿಂದ ಬ್ಲಾಕ್ ಆಗಿದ್ದು, ಮಳೆ ಬಂದಾಗ ನೀರು ಮನೆಗಳಿಗೆ ನುಗ್ಗುತ್ತಿದೆ. ತಕ್ಷಣ ಹೂಳೆತ್ತುವ ವಾಹನ ಕಳುಹಿಸಿ ಶುಚಿಗೊಳಿಸಿ.",
+    "location": {
+      "lat": 12.9166,
+      "lng": 77.6101,
+      "address": "BTM Layout 2nd Stage, Bengaluru, Karnataka 560076"
+    },
+    "imageUrl": "https://images.unsplash.com/photo-1541888946425-d0fbb186c5f7?w=600&auto=format&fit=crop&q=80",
+    "upvotes": 7,
+    "duplicateCount": 2,
+    "routingDurationSeconds": "3.5",
+    "isDuplicate": false,
+    "timeline": [
+      {
+        "status": "Submitted",
+        "title": "Complaint Registered",
+        "description": "Kanglish speech input.",
+        "timestamp": "2026-10-08T03:27:51.250Z"
+      },
+      {
+        "status": "In Progress",
+        "title": "Desilting Excavator Dispatched",
+        "description": "Mini excavator deployed for silt dredging.",
+        "timestamp": "2026-10-08T06:27:51.250Z"
+      }
+    ]
+  },
+  {
+    "id": "seed-10",
+    "ticketNumber": "BLR-2026-389760",
+    "createdAt": "2026-10-06T19:27:51.250Z",
+    "updatedAt": "2026-10-08T19:27:51.250Z",
+    "escalationDueAt": "2026-10-14T07:27:51.250Z",
+    "status": "Resolved",
+    "issue_category": "Broken Footpath",
+    "severity": 3,
+    "severity_justification": "Broken interlocking paver blocks forcing senior citizens onto dangerous motor vehicle lane.",
+    "safety_risk": false,
+    "safety_risk_reason": "None",
+    "helpline_trigger": "none",
+    "responsible_department": "Roads & Infrastructure Division",
+    "department_code": "PWD-ROAD",
+    "department_helpline": "1800-425-5555",
+    "department_verified": true,
+    "escalation_days": 7,
+    "detected_language": "Hindi",
+    "input_transcript": "कनिंघम रोड पर फुटपाथ के पत्थर टूटे पड़े हैं। बुजुर्गों को चलने में बहुत परेशानी हो रही है। कृपया फुटपाथ की मरम्मत करें।",
+    "formal_complaint_draft": "Pedestrian Infrastructure Hazard: Damaged, fractured concrete paver blocks across a 20-meter stretch on Cunningham Road. Creates trip hazard for elderly pedestrians. Paver relaying and concrete leveling completed.",
+    "translated_copy": "कनिंघम रोड पर फुटपाथ के पेवर ब्लॉक उखड़े व टूटे हुए हैं, जिससे बुजुर्गों के गिरने का खतरा है। फुटपाथ की नई टाइलें लगाकर मरम्मत की जाए।",
+    "location": {
+      "lat": 12.9839,
+      "lng": 77.5962,
+      "address": "Cunningham Rd, Vasanth Nagar, Bengaluru, Karnataka 560052"
+    },
+    "imageUrl": "https://images.unsplash.com/photo-1515162816999-a0c47dc192f7?w=600&auto=format&fit=crop&q=80",
+    "upvotes": 5,
+    "duplicateCount": 1,
+    "routingDurationSeconds": "3.7",
+    "isDuplicate": false,
+    "timeline": [
+      {
+        "status": "Submitted",
+        "title": "Complaint Registered",
+        "description": "Hindi text submission.",
+        "timestamp": "2026-10-06T19:27:51.250Z"
+      },
+      {
+        "status": "Resolved",
+        "title": "Footpath Re-tiled & Cleared",
+        "description": "New interlocking pavers installed and leveled with curb.",
+        "timestamp": "2026-10-08T19:27:51.250Z"
+      }
+    ]
+  },
+  {
+    "id": "seed-11",
+    "ticketNumber": "BLR-2026-490871",
+    "createdAt": "2026-10-06T07:27:51.250Z",
+    "updatedAt": "2026-10-06T07:27:51.250Z",
+    "escalationDueAt": "2026-10-09T05:27:51.250Z",
+    "status": "Submitted",
+    "issue_category": "Sewage Overflow",
+    "severity": 4,
+    "severity_justification": "Raw sewage blackwater bubbling onto street pavement outside primary school gate.",
+    "safety_risk": true,
+    "safety_risk_reason": "Acute biohazard and gastrointestinal pathogen spread.",
+    "helpline_trigger": "manhole_hazard",
+    "responsible_department": "Water Supply & Sewerage Board",
+    "department_code": "WSSB-JAL",
+    "department_helpline": "1916",
+    "department_verified": true,
+    "escalation_days": 3,
+    "detected_language": "Kannada",
+    "input_transcript": "ರಾಜಾಜಿನಗರ ಪ್ರೈಮರಿ ಶಾಲೆ ಮುಂಭಾಗ ಒಳಚರಂಡಿ ನೀರು ಉಕ್ಕಿ ಹರಿಯುತ್ತಿದೆ. ಕೆಟ್ಟ ವಾಸನೆ ಮತ್ತು ರೋಗ ಹರಡುವ ಭೀತಿ ಇದೆ.",
+    "formal_complaint_draft": "Escalated Biological Hazard: Untreated domestic sewage overflowing from blocked municipal inspection chamber directly outside Primary School gate in Rajajinagar. Jetting machine deployment requested.",
+    "translated_copy": "ರಾಜಾಜಿನಗರ ಶಾಲೆಯ ಎದುರು ಒಳಚರಂಡಿ ನೀರು ರಸ್ತೆಯಲ್ಲಿ ಹರಿಯುತ್ತಿದ್ದು, ಮಕ್ಕಳಿಗೆ ಸೋಂಕು ತಗುಲುವ ಭೀತಿಯಿದೆ. ತಕ್ಷಣ ಜೆಟ್ಟಿಂಗ್ ಮಷಿನ್ ಮೂಲಕ ಸರಿಪಡಿಸಿ.",
+    "location": {
+      "lat": 12.9981,
+      "lng": 77.5532,
+      "address": "1st Block, Rajajinagar, Bengaluru, Karnataka 560010"
+    },
+    "imageUrl": "https://images.unsplash.com/photo-1584467735871-8e85353a8413?w=600&auto=format&fit=crop&q=80",
+    "upvotes": 18,
+    "duplicateCount": 6,
+    "routingDurationSeconds": "3.1",
+    "isDuplicate": false,
+    "timeline": [
+      {
+        "status": "Submitted",
+        "title": "Complaint Registered",
+        "description": "Filed via Kannada voice.",
+        "timestamp": "2026-10-06T07:27:51.250Z"
+      },
+      {
+        "status": "Escalation Triggered",
+        "title": "SLA Breached (>72 hours without resolution)",
+        "description": "Auto-escalated to Executive Engineer & Zonal Commissioner.",
+        "timestamp": "2026-10-09T05:27:51.250Z"
+      }
+    ]
+  },
+  {
+    "id": "seed-12",
+    "ticketNumber": "BLR-2026-501982",
+    "createdAt": "2026-10-08T16:27:51.250Z",
+    "updatedAt": "2026-10-08T16:27:51.250Z",
+    "escalationDueAt": "2026-10-15T07:27:51.250Z",
+    "status": "Submitted",
+    "issue_category": "Fallen Tree / Road Obstruction",
+    "severity": 4,
+    "severity_justification": "Massive Gulmohar tree branch snapped, blocking 80% of road and crushing telecom wire.",
+    "safety_risk": true,
+    "safety_risk_reason": "Blind turn collision hazard at dusk.",
+    "helpline_trigger": "manhole_hazard",
+    "responsible_department": "Roads & Infrastructure Division",
+    "department_code": "PWD-ROAD",
+    "department_helpline": "1800-425-5555",
+    "department_verified": true,
+    "escalation_days": 7,
+    "detected_language": "Tamil",
+    "input_transcript": "பெசன்ட் நகர் சாலையில் பெரிய மரக்கிளை முறிந்து விழுந்துள்ளது. போக்குவரத்து முற்றிலும் தடைபட்டுள்ளது. உடனே அகற்றவும்.",
+    "formal_complaint_draft": "Arterial Road Blockage: Large storm-damaged tree limb fallen across carriageway near Besant Road junction. Tree cutting chainsaw team and debris loader crane requested for emergency clearance.",
+    "translated_copy": "சாலையில் விழுந்துள்ள பெரிய மரக்கிளையினால் போக்குவரத்து முடங்கியுள்ளது. உடனே மரத்தை வெட்டி அப்புறப்படுத்த வேண்டுகோள்.",
+    "location": {
+      "lat": 12.9254,
+      "lng": 77.6012,
+      "address": "Bannerghatta Main Rd, Bengaluru, Karnataka 560029"
+    },
+    "imageUrl": "https://images.unsplash.com/photo-1544717305-2782549b5136?w=600&auto=format&fit=crop&q=80",
+    "upvotes": 6,
+    "duplicateCount": 2,
+    "routingDurationSeconds": "2.7",
+    "isDuplicate": false,
+    "timeline": [
+      {
+        "status": "Submitted",
+        "title": "Complaint Registered",
+        "description": "Tamil voice report.",
+        "timestamp": "2026-10-08T16:27:51.250Z"
+      }
+    ]
+  },
+  {
+    "id": "seed-13",
+    "ticketNumber": "BLR-2026-612093",
+    "createdAt": "2026-10-08T21:27:51.250Z",
+    "updatedAt": "2026-10-08T22:27:51.250Z",
+    "escalationDueAt": "2026-10-11T07:27:51.250Z",
+    "status": "Acknowledged",
+    "issue_category": "Illegal Dumping",
+    "severity": 3,
+    "severity_justification": "Commercial construction debris dumped overnight in front of storm drain.",
+    "safety_risk": false,
+    "safety_risk_reason": "None",
+    "helpline_trigger": "none",
+    "responsible_department": "Solid Waste Management & Sanitation",
+    "department_code": "SWM-CIVIC",
+    "department_helpline": "1969",
+    "department_verified": true,
+    "escalation_days": 3,
+    "detected_language": "English",
+    "input_transcript": "Someone dumped 2 truckloads of construction debris and broken bricks on the roadside overnight, blocking the drain entrance.",
+    "formal_complaint_draft": "Illegal Construction & Demolition (C&D) Waste Dumping: Unlawful placement of construction aggregate and broken masonry obstructing public right-of-way and storm drainage inlet. Municipal fine issuance and clearance truck required.",
+    "translated_copy": "Illegal Construction & Demolition (C&D) Waste Dumping: Unlawful placement of construction aggregate and broken masonry. Municipal clearance required.",
+    "location": {
+      "lat": 12.9553,
+      "lng": 77.7011,
+      "address": "Marathahalli Outer Ring Rd, Bengaluru, Karnataka 560037"
+    },
+    "imageUrl": "https://images.unsplash.com/photo-1530587191325-3db32d826c18?w=600&auto=format&fit=crop&q=80",
+    "upvotes": 4,
+    "duplicateCount": 1,
+    "routingDurationSeconds": "3.2",
+    "isDuplicate": false,
+    "timeline": [
+      {
+        "status": "Submitted",
+        "title": "Complaint Registered",
+        "description": "English submission.",
+        "timestamp": "2026-10-08T21:27:51.250Z"
+      },
+      {
+        "status": "Acknowledged",
+        "title": "Marshals Assigned",
+        "description": "SWM Marshals dispatched to inspect site.",
+        "timestamp": "2026-10-08T22:27:51.250Z"
+      }
+    ]
+  },
+  {
+    "id": "seed-14",
+    "ticketNumber": "BLR-2026-723104",
+    "createdAt": "2026-10-09T02:27:51.250Z",
+    "updatedAt": "2026-10-09T02:27:51.250Z",
+    "escalationDueAt": "2026-10-10T07:27:51.250Z",
+    "status": "Submitted",
+    "issue_category": "Transformer Sparking",
+    "severity": 5,
+    "severity_justification": "Distribution transformer throwing sparks with loud buzzing noise near vegetable market.",
+    "safety_risk": true,
+    "safety_risk_reason": "Imminent catastrophic electrical explosion or fire hazard in crowded commercial zone.",
+    "helpline_trigger": "electrical_hazard",
+    "responsible_department": "Electricity Supply & Street Lighting",
+    "department_code": "ESCOM-ELEC",
+    "department_helpline": "1912",
+    "department_verified": true,
+    "escalation_days": 2,
+    "detected_language": "Hindi (Hinglish)",
+    "input_transcript": "Market ke samne transformer se aag ki chingari nikal rahi hai aur bohot tez awaz aa rahi hai. Urgent line band karo!",
+    "formal_complaint_draft": "Critical Grid Threat: Severe arcing and audible humming originating from roadside step-down distribution transformer directly adjacent to crowded market stalls. High risk of transformer oil ignition. Immediate 11kV feeder de-energization requested.",
+    "translated_copy": "बाजार के पास ट्रांसफार्मर से चिंगारियां और तेज आवाज आ रही है। जान-माल के नुकसान से बचने हेतु तुरंत बिजली बंद कर ट्रांसफार्मर ठीक करें।",
+    "location": {
+      "lat": 12.9691,
+      "lng": 77.6019,
+      "address": "Richmond Town, Bengaluru, Karnataka 560025"
+    },
+    "imageUrl": "https://images.unsplash.com/photo-1544717305-2782549b5136?w=600&auto=format&fit=crop&q=80",
+    "upvotes": 19,
+    "duplicateCount": 7,
+    "routingDurationSeconds": "2.3",
+    "isDuplicate": false,
+    "timeline": [
+      {
+        "status": "Submitted",
+        "title": "Complaint Registered",
+        "description": "Audio input in Hinglish.",
+        "timestamp": "2026-10-09T02:27:51.250Z"
+      },
+      {
+        "status": "AI Triage Completed",
+        "title": "HIGH-VOLTAGE HAZARD DISPATCH",
+        "description": "Direct priority dispatch alert triggered to BESCOM Substation 1912.",
+        "timestamp": "2026-10-09T02:33:51.250Z"
+      }
+    ]
+  },
+  {
+    "id": "seed-15",
+    "ticketNumber": "BLR-2026-834215",
+    "createdAt": "2026-10-08T13:27:51.250Z",
+    "updatedAt": "2026-10-08T14:27:51.250Z",
+    "escalationDueAt": "2026-10-13T07:27:51.250Z",
+    "status": "Acknowledged",
+    "issue_category": "Flooding / Waterlogging",
+    "severity": 4,
+    "severity_justification": "Underpass filled with 2.5 feet of stormwater trapping passenger cars.",
+    "safety_risk": true,
+    "safety_risk_reason": "Submergence hazard for low vehicles and stranded motorists.",
+    "helpline_trigger": "flooding_hazard",
+    "responsible_department": "Stormwater Drains & Flood Prevention",
+    "department_code": "SWD-DRAIN",
+    "department_helpline": "1077",
+    "department_verified": true,
+    "escalation_days": 4,
+    "detected_language": "Telugu",
+    "input_transcript": "రైల్వే అండర్‌పాస్ కింద మోకాళ్ళ లోతు నీరు చేరి కార్లు ఆగిపోయాయి. డ్రైనేజీ పంపులు నడవడం లేదు. వెంటనే నీరు తోడించాలి.",
+    "formal_complaint_draft": "Emergency Underpass Submergence: Severe stormwater accumulation exceeding 2.5 feet depth beneath railway underpass due to submersible pump failure. Traffic completely stalled. High-capacity dewatering diesel pump deployment requested.",
+    "translated_copy": "రైల్వే అండర్‌పాస్‌లో భారీగా నీరు నిలిచిపోయి వాహనాలు నిలిచిపోయాయి. వెంటనే మోటార్లు పెట్టి నీటిని బయటకు పంపించాలి.",
+    "location": {
+      "lat": 12.9912,
+      "lng": 77.5714,
+      "address": "Seshadripuram Railway Underpass, Bengaluru, Karnataka 560020"
+    },
+    "imageUrl": "https://images.unsplash.com/photo-1541888946425-d0fbb186c5f7?w=600&auto=format&fit=crop&q=80",
+    "upvotes": 15,
+    "duplicateCount": 5,
+    "routingDurationSeconds": "2.6",
+    "isDuplicate": false,
+    "timeline": [
+      {
+        "status": "Submitted",
+        "title": "Complaint Registered",
+        "description": "Telugu complaint filed.",
+        "timestamp": "2026-10-08T13:27:51.250Z"
+      },
+      {
+        "status": "Acknowledged",
+        "title": "Disaster Control Unit En Route",
+        "description": "High-horsepower tractor-mounted dewatering pump dispatched.",
+        "timestamp": "2026-10-08T14:27:51.250Z"
+      }
+    ]
+  }
+]
