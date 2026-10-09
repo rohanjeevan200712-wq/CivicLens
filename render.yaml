@@ -1,0 +1,15 @@
+services:
+  - type: web
+    name: civiclens
+    runtime: node
+    plan: free
+    region: singapore
+    buildCommand: cd client && npm install && npm run build && cd ../server && npm install
+    startCommand: cd server && node index.js
+    envVars:
+      - key: PORT
+        value: 10000
+      - key: NODE_VERSION
+        value: 20
+      - key: GEMINI_MODEL
+        value: gemini-1.5-flash
